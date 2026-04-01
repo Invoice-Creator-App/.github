@@ -22,7 +22,7 @@ Unlike standard invoicing tools, this **Invoice Creator App** offers deep custom
 ---
 
 ## Overview
-![invoice-creator-app-dashboard](https://cdn.dribbble.com/userupload/13515878/file/original-ea8a793d27687ec94aea325a62ae4c03.png)
+![invoice-creator-app-dashboard](https://cdn.dribbble.com/userupload/4442771/file/original-3c747aa98ce1180a1211e0f124cd1663.png)
 
 ---
 
